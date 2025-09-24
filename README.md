@@ -26,7 +26,7 @@ This project involves:
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-![DataIntegration] (docs/data_integration.png)
+![Data ArchiteIntegration](docs/data_integration.png)
 
 
 #### Specifications
